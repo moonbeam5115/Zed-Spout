@@ -13,3 +13,5 @@ Once this is done, you can clone this repository, install the requirements, and 
 `pip install -r requirements.txt`  
 
 `python zed_spout_sender.py`
+
+https://github.com/moonbeam5115/Zed-Spout/issues/1
