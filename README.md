@@ -8,3 +8,6 @@ https://github.com/spiraltechnica/Spout-for-Python
 
 Visit the Spout website to download:  
 https://spout.zeal.co/
+
+Once this is done, you can clone this repository and run the script:  
+`python zed_spout_sender.py`
