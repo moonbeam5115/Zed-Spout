@@ -6,7 +6,7 @@ opencv-python==4.9.0.80
 pygame==2.5.2
 PyOpenGL 
 PyOpenGL-accelerate 
-pyzed
+# pyzed - needs to be installed through Zed Documentation. See main repo page
 requests==2.31.0
 urllib3==2.0.7
 wincertstore==0.2
